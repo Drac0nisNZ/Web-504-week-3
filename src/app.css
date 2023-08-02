@@ -4,15 +4,37 @@
     width: 200px;
     opacity: 20;
 } */
-a:link {
+
+/* a:link {
     color: #4285F4;
 }
+
 a:visited {
     color: #02028c;
 }
+
 a:hover {
     color: #d2691e;
 }
+
 a:active {
     color: #800080;
+} */
+
+#text-one {
+    border-style: solid;
+    border-width: 6px 10px 5px 8px;
+    border-bottom-color: red;
+    border-top-color: blue;
+    border-left-color: green;
+    border-right-color: gold;
+}
+
+#text-two {
+    border-width: 5px;
+    border-top-style: solid;
+    border-bottom-style: dashed;
+    border-left-style: double;
+    border-right-style: dotted;
+    border-color: chartreuse;
 }
