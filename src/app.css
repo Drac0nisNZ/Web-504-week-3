@@ -1,20 +1,18 @@
-p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-variant: small-caps;
-    font-weight: bold;
-    font-size: 30px;
-    font-size-adjust: 0.5;
-    font-stretch: ultra-expanded;
-    /* font: italic small-caps bold 30px Times;*/
-    color: blue;
-    direction: rtl;
-    letter-spacing: 10px;
-    word-spacing: 5px;
-    text-indent: 2%;
-    text-align: left;
-    text-decoration: wavy; /*underline, blink, none, overline*/
-    text-decoration: line-through;
-    text-transform: uppercase; /* lowercase none capitalize */
-    text-shadow: 5px 5px 10px blueviolet;
-} 
+/* img {
+    border: 10px solid rgb(60, 60, 203);
+    height: 100px;
+    width: 200px;
+    opacity: 20;
+} */
+a:link {
+    color: #4285F4;
+}
+a:visited {
+    color: #02028c;
+}
+a:hover {
+    color: #d2691e;
+}
+a:active {
+    color: #800080;
+}
