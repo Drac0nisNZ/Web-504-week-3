@@ -1,20 +1,6 @@
-h1 , h2 , h3 {
-    color: #36cfff;
-    font-weight: normal;
-    text-transform: uppercase;
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
 }
-
-.notes {
-    color: #ff48e753;
-}
-
-* {
-    color: red;
-}
-ol li {
-    color: blue;
-}
-/* 
-body > p {
-    color: green;
-} */
