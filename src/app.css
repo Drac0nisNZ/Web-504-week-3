@@ -1,4 +1,27 @@
-.list-style-one {
+.box-one {
+    background-color: red;
+    border: 2px solid blue;
+    color: yellow;
+    padding: 5px 10px 15px;
+}
+
+.box-two {
+    background-color: blue;
+    border: 2px solid red;
+    color: yellow;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#cursor-style {
+    cursor: crosshair;
+}
+
+
+/* 
+#new {
+    color: blue;
+}.list-style-one {
     list-style-type: circle;
     list-style-position: outside;
 }
@@ -13,10 +36,10 @@
     /* list-style-position: none; */
 }
 .list-style-three li {
-    list-style-image: url(6548114.png);
+    list-style-image: url(6548114.jpg);
 }
 
 .list-style-four {
     list-style-type: lower-alpha;
 
-}
+} */
