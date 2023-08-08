@@ -1,13 +1,15 @@
 .box-one {
     background-color: red;
-    border: 2px solid blue;
+    outline-width: 20px;
+    outline-style: solid;
+    outline-color: aquamarine;
     color: yellow;
     padding: 5px 10px 15px;
 }
 
 .box-two {
     background-color: blue;
-    border: 2px solid red;
+    outline: thin solid purple;
     color: yellow;
     padding-left: 10px;
     padding-right: 10px;
