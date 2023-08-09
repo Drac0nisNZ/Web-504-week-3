@@ -1,4 +1,17 @@
-.container {
+ul {
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+/* other flex-direction options  column || row-reverse || column-reverse */
+li {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 8px;
+}
+
+/* .container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,4 +30,4 @@
 
 .item {
     margin: 10px;
-}
+} */
